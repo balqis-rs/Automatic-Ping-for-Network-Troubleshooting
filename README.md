@@ -6,6 +6,5 @@ Skrip Python untuk memantau koneksi jaringan dengan ping otomatis ke gateway, DN
 ```bash
 python3 ping_monitor.py
 
-## Untuk Melihat hasil file teks
-```bash
+### Untuk Melihat File Text
 cat ping_log.txt
